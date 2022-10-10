@@ -6,7 +6,7 @@
 <!--   
 <img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif"> -->
   
-<img align="right" alt="Coding" width="500" src="https://github.com/sandeepbelamagi/sandeepbelamagi/blob/main/christmas.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/sandeepbelamagi/sandeepbelamagi/blob/main/christmas.gif">
 
  - 👋 Hi, My Full name Sandeepkumar Belamagi
 - 👀 I’m interested in Data science , machine learning and python
@@ -23,6 +23,8 @@
     <a href="https://www.linkedin.com/in/sandeepkumar-belamagi-45b663192/"><img src="https://img.icons8.com/color/344/linkedin.png" alt="express" width="44" height="44"/> </a>
     <a href="https://www.kaggle.com/sandeepbelamagi"><img src="https://img.icons8.com/windows/344/kaggle.png" alt="express" width="44" height="44"/> </a>
     <a href="https://www.hackerrank.com/sandeepbelamagi1"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="express" width="44" height="44"/> </a>
+    <a href="https://medium.com/@sk397675"><img src="https://img.icons8.com/sf-black-filled/344/medium-logo.png" alt="express" width="44" height="44"/> </a>
+
    </p>
   
   
