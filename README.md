@@ -12,7 +12,6 @@
 - 👀 I’m interested in Data science , machine learning and python
 - I have done 6+ monhs of internship in a Data science, 
 - Very keen to be data scientist or machine learning engineer.
--  
 <hr>
 <p align="center">
   <br>
